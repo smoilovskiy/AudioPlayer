@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     SeekBar seekBar;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
